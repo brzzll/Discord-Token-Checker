@@ -11,5 +11,5 @@ Verifica tokens de Discord y se guarda automáticamente.
   - Primero instala NodeJS, ejecuta el archivo "setup.bat" para instalar los módulos necesarios.
   - Una vez instalado los módulos necesarios, ejecuta "start.bat" para iniciar la herramienta.
 - Dónde puedo conseguir **ayuda** ?
-  - En el servidor de **Z**en**X** ( **https://discord.gg/kEB3PCPkzc** o **https://dsc.gg/zenxcorp** )
+  - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
 - Video de presentación: 
